@@ -44,4 +44,17 @@ python setup.py
 
 to build the single exe file. For running the application or distribution, you have to copy icons and weights folders to the same application path.
 
+## Citation
+
+Citation from the RetinaFace technique.
+
+```
+@inproceedings{Deng2020CVPR,
+    title = {RetinaFace: Single-Shot Multi-Level Face Localisation in the Wild},
+    author = {Deng, Jiankang and Guo, Jia and Ververas, Evangelos and Kotsia, Irene and Zafeiriou, Stefanos},
+    booktitle = {CVPR},
+    year = {2020}
+}
+```
+
 [gdrive_path]: https://drive.google.com/drive/folders/1Io5EcnLRm18Df6DFJa_2Rrb69x63McK6?usp=sharing
